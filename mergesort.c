@@ -1,11 +1,3 @@
-/*
- * mergesort.c
- *
- * CS 470 Project 3 (MPI)
- * Original serial version.
- *
- * Name(s): 
- */
 
 #include <stdbool.h>
 #include <stdio.h>
